@@ -31,7 +31,7 @@ PACKAGES="$PACKAGES luci-i18n-filebrowser-zh-cn"
 PACKAGES="$PACKAGES luci-app-argon-config"
 PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-mosdns-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-adguardhome-zh-cn"
+# PACKAGES="$PACKAGES luci-i18n-adguardhome-zh-cn"
 #24.10
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
